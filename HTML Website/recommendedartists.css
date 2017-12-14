@@ -1,0 +1,42 @@
+body {
+	background-color: grey;
+	text-align: center;
+}
+
+h1 { 
+font-family: Nixie One; 
+color: lavender; 
+}
+
+h2 {
+	font-family: Nixie One; 
+	color: white; 
+	font-size: 200%;
+	text-align: center;
+}
+h2 #h2 {
+	font-family: Nixie One; 
+	color: white; 
+	text-align: center;
+}
+p {
+	font-family: Nixie One; 
+	color: black; 
+	font-size: 300%; 
+	text-align: center;
+
+}
+
+#p2 {
+	font-family: Nixie One;
+	color: black; 
+	font-size: 300%;
+	text-align: center;
+}
+
+a {
+	text-decoration: none; 
+	font-family: Nixie One; 
+	color: #000080; 
+	font-size: 250%; 
+}

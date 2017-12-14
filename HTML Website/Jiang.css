@@ -1,0 +1,96 @@
+body {
+	font-family: Nixie One; 
+    background-color: grey; 
+}
+#wrapper { 
+	max-width: 960px; 
+	margin: 0 auto; 
+	background-color: grey; 
+	padding: 32px;
+ }
+
+ header {
+ 	background-color: grey; 
+ 	height: 100px; 
+ 	padding: 2px; 
+ }
+
+header h1 { 
+	text-transform: uppercase; 
+	
+	text-align: center; 
+	color: lavender;
+	line-height: 60px; 
+
+}
+
+.main_menu {
+	padding: 5px 0px 0;
+	text-align: center; 
+	line-height: 32px; 
+	background-color: #818181; 
+}
+
+ul.main_menu { 
+	margin-top: 15px; 
+}
+
+.main_menu li {
+	display: inline; 
+	padding: 0 10px 0 10px;
+	font-size: 20px;
+}
+
+
+
+  .main_menu a {
+  	text-decoration: none;
+  	color: #fff; 
+  	padding: 8px; 
+  	font-variant: small-caps;
+  }
+
+  .main_menu a:hover {
+  	color: lavender;
+
+  }
+
+.pictures 
+
+#h1 {
+	color: blue; 
+}
+
+#h2 {
+	color: blue; 
+}
+
+h4 { 
+text-align: center;
+font-family: Nixie One;
+font-size: 150%; 
+color: black; 
+ }
+
+p {
+	text-align: center;
+	font-family: Nixie One; 
+	font-size: 200%; 
+	color: black;
+} 
+
+img {
+	display: block; 
+	margin: auto;
+	width: 40%; 
+}
+
+footer {
+
+right: 0;
+bottom: 0;
+left: 0;
+padding: .068rem;
+background-color: lavender; 
+text-align: center;  
+ }

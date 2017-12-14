@@ -1,0 +1,17 @@
+body {
+	background-color: grey; 
+}
+
+h1 {
+	color: lavender; 
+	text-align: center; 
+}
+
+p { 
+background-color: grey; 	
+font-family: Nixie One; 
+color: white; 
+font-size: 300%; 
+text-align: center;
+ }
+

@@ -1,0 +1,17 @@
+body {
+	background-color: grey; 
+
+}
+
+h2 { 
+ font-family: Nixie One
+ background-color: grey;
+ color: lavender; 
+ font-size: 400%; 
+
+
+  }
+
+ h2 a { 
+ text-decoration: none; 
+  }

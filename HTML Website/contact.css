@@ -1,0 +1,11 @@
+body {
+	background-color: grey; 
+}
+
+h1 {
+	background-color: grey; 
+	font-family: Nixie One; 
+	color: lavender; 
+	font-size: 500%;
+	text-align: center; 
+}
