@@ -13,3 +13,12 @@ body {
 	font-size: 500%;  
 } 
 
+a {
+	text-decoration: none; 
+	font-family: Nixie One; 
+	color: #000080;
+	font-size: 200%; 
+	text-align: center;
+
+
+}
