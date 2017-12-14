@@ -13,6 +13,11 @@ body {
 	font-size: 500%;  
 } 
 
+#h3 {
+	color: lavender;
+	font-size: 500%;
+}
+
 a {
 	text-decoration: none; 
 	font-family: Nixie One; 
